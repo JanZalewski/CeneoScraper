@@ -36,4 +36,4 @@
 - zapisanie wszystkich opinii o produkcie do pliku .json
 
 ## Etap 4 - Refaktoryzacja kodu
-- parametryzacja identyifkatora
+- parametryzacja identyifkatora opinii
